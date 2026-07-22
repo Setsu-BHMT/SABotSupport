@@ -1,0 +1,228 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SABotSupport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpdateDelay" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="UseLinearRegression" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HPLimit1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="HPColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="HPLimit2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="HPColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="MPLimit1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="MPColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="MPLimit2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="MPColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="CharismaLimit1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="CharismaColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="CharismaLimit2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="CharismaColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="DurabilityLimit1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">79</Value>
+    </Setting>
+    <Setting Name="DurabilityColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkOrange</Value>
+    </Setting>
+    <Setting Name="DurabilityLimit2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="DurabilityColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkRed</Value>
+    </Setting>
+    <Setting Name="CopyItemNameOnClick" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LoyaltyLimit1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="LoyaltyColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="LoyaltyLimit2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">59</Value>
+    </Setting>
+    <Setting Name="LoyaltyColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="PredictLevel" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">140</Value>
+    </Setting>
+    <Setting Name="DisplayCopyPetScreenshotMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplaySavePetScreenshotMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayCopyCurrentStatsMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayCopyBaseStatsMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayCopyAllPetStatsMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayPredictStats" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayBaseStats" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisableMapList" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseMapListAsWhitelist" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableDifferentialCopyBasedOnClickTarget" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoRemoveWhitespace" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpgradeRequired" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayCopyPredictStatsMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CopyPetStatsOnRightClick" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowTeamChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowPrivateChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowFamilyChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowAnnounceChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowJobChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowWorldChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowInterworldChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EnableMergedChatMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ShowBroadcastChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowSystemChannel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayCopyBoostStatsMenuItem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BoostLevel" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="AssumeBoostKingPet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DisplayBoostStats" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SaveAccountPasswords" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AccountPasswordCollection" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AssaPathCollection" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerlistINIPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoHideOnLogin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckForUpdates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoDetermineBoostKingPet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ForceBoostKingPet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseOldAssaCapture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MapNameList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /&gt;</Value>
+    </Setting>
+    <Setting Name="PetStatCopyFormat" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;Lv1HP&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Lv1Attack&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Lv1Armor&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Lv1Speed&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Level&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;HP&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Attack&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Armor&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;Speed&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;HPRate&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;AttackRate&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;ArmorRate&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;SpeedRate&lt;/string&gt;
+  &lt;string&gt;Tab&lt;/string&gt;
+  &lt;string&gt;CombinedRate&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SearchAllProcesses" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

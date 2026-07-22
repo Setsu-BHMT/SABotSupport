@@ -12,7 +12,7 @@ namespace SABotSupport
 {
     internal static class UpdateChecker
     {
-        private const string VERSION_XML_URL = @"https://raw.githubusercontent.com/Setsu-BHMT/SABotSupport/main/version.xml";
+        private const string VERSION_XML_URL = @"https://raw.githubusercontent.com/Setsu-BHMT/SABotSupport/master/version.xml";
 
         private static volatile bool isRunning = false;
         private static Version currentVersion = default;
